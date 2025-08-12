@@ -9,17 +9,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-- uses: actions/upload-artifact@v4
-with:
+      - name: Generate GitHub Snake SVG
+        uses: Platane/snk@v3
+        with:
           github_user_name: joubertjose
           outputs: |
-            ./github-snake.svg
-            ./github-snake-dark.svg
-
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake-graph
-          path: |
             ./github-snake.svg
             ./github-snake-dark.svg
 
