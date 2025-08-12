@@ -32,7 +32,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/after%20effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joubert/joubert/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joubert/joubert/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joubertjose/joubertjose/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joubertjose/joubertjose/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/joubertjose/joubertjose/output/github-snake.svg" />
 </picture>
+
