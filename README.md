@@ -36,3 +36,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joubertjose/joubertjose/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/joubertjose/joubertjose/output/github-snake.svg" />
 </picture>
+
+
+## 📈 GitHub Stats
+<a href="https://github.com/joubertjose/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=joubertjose" />
+</a>
+<a href="https://github.com/joubertjose/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joubertjose&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+  
