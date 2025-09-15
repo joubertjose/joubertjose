@@ -43,3 +43,9 @@
   
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Waves" />
 
+
+### ✍️ Random Dev Quote
+
+“The body achieves what the mind believes.” 
+
+---
