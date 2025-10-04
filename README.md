@@ -14,11 +14,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-# 💻 Tech Stack:
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git,github,vscode,java" />
-  </a>
-
 ### 🎨 Design & Misc Tools  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
