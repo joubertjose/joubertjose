@@ -38,17 +38,11 @@ Peer-reviewed paper published in IJRPR (April 2025). Combines IoT sensor data wi
 ### GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=joubertjose&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joubertjose" height="165">
 </p>
 
 ### Let's connect
 
-📫 Reach me at **YOUR_EMAIL@example.com** — always happy to talk about IoT/ML projects, hackathons, or a good film.
+📫 Reach me at **joubertjose200614@gmail.com** — always happy to talk about IoT/ML projects, hackathons, or a good film.
 
-<!--
-Setup notes for Joubert:
-1. Create a public repo named exactly YOUR_GITHUB_USERNAME (e.g. if your username is joubertjose, repo name = joubertjose) and check "Add a README file" — GitHub shows this README on your profile automatically.
-2. Replace every YOUR_... placeholder above with your real links.
-3. Delete this comment block before publishing.
--->
