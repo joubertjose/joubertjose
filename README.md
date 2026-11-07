@@ -94,10 +94,7 @@ flowchart LR
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/joubertjose/joubert-ai-tutor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-ai-tutor&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff&hide_border=false" alt="joubert-ai-tutor"/>
-      </a>
-      <br/>
+      <h3><a href="https://github.com/joubertjose/joubert-ai-tutor">📦 joubert-ai-tutor</a></h3>
       <sub>🧠 <b>Agentic RAG tutoring system</b> — context-aware learning with document intelligence and streaming responses.</sub><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -106,10 +103,7 @@ flowchart LR
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/joubertjose/joubert-tasknebula">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-tasknebula&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-tasknebula"/>
-      </a>
-      <br/>
+      <h3><a href="https://github.com/joubertjose/joubert-tasknebula">📦 joubert-tasknebula</a></h3>
       <sub>🌌 <b>Project management platform with AI copilot</b> — task orchestration, analytics, PostgreSQL backend.</sub><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -119,10 +113,7 @@ flowchart LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/joubertjose/joubert-rag">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-rag&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-rag"/>
-      </a>
-      <br/>
+      <h3><a href="https://github.com/joubertjose/joubert-rag">📦 joubert-rag</a></h3>
       <sub>📄 <b>Hybrid RAG document intelligence</b> — structure-aware parsing, reciprocal rank fusion, neural reranking, BYOK Gemini execution.</sub><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -131,10 +122,7 @@ flowchart LR
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/joubertjose/joubert-automl-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-automl-studio&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-automl-studio"/>
-      </a>
-      <br/>
+      <h3><a href="https://github.com/joubertjose/joubert-automl-studio">📦 joubert-automl-studio</a></h3>
       <sub>⚙️ <b>No-code ML platform</b> — preprocessing, model training, evaluation, and deployment pipeline.</sub><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -144,20 +132,14 @@ flowchart LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/joubertjose/joubert-predictive-maintenance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-predictive-maintenance&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-predictive-maintenance"/>
-      </a>
-      <br/>
+      <h3><a href="https://github.com/joubertjose/joubert-predictive-maintenance">📦 joubert-predictive-maintenance</a></h3>
       <sub>🏭 <b>Industrial failure prediction</b> — XGBoost-based analytics for equipment maintenance scheduling.</sub><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/joubertjose/JoubertMart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=JoubertMart&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="JoubertMart"/>
-      </a>
-      <br/>
+      <h3><a href="https://github.com/joubertjose/JoubertMart">📦 JoubertMart</a></h3>
       <sub>🛒 <b>Responsive e-commerce front-end</b> — product catalog, cart, checkout, registration.</sub><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -219,16 +201,17 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joubertjose&show_icons=true&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff&text_color=c9d4ee&hide_border=false&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joubertjose&layout=compact&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&text_color=c9d4ee" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=joubertjose&theme=tokyonight&background=0A0A0A&ring=00F3FF&fire=7C5CFF&currStreakLabel=00F3FF&border=00F3FF&hide_border=false" alt="Streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joubertjose&bg_color=0a0a0a&color=00f3ff&line=7c5cff&point=ffffff&area=true&area_color=00f3ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+<img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages"/>
+
+<img height="180" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="180" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
 
 </div>
 
-<sub>📡 All stats are live — pulled straight from GitHub, no placeholders.</sub>
+<sub>📡 Cards are auto-generated daily by a GitHub Action — real data, no placeholders.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -255,6 +238,8 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,100:7c5cff&height=120&section=footer&text=thanks%20for%20stopping%20by&fontSize=18&fontColor=0a0a0a&animation=twinkling&fontAlignY=68" width="100%" alt="Footer"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<sub>thanks for stopping by ✦</sub>
 
 </div>
