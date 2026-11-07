@@ -1,181 +1,260 @@
-# JOUBERT JOSE
+<!-- PROFILE README: save this repo as  joubertjose/joubertjose  (repo name == your username) -->
 
-`computer science student · full-stack engineering · applied AI · machine learning`
+<div align="center">
 
-B.Tech Computer Science & Engineering (2024–2028)  
-St. Joseph's College of Engineering and Technology, Palai — 4th semester  
-Published researcher — IJRPR, April 2025
+<img src="assets/header.svg" alt="Joubert Jose — Full-stack · Applied AI · Machine Learning" width="100%"/>
 
+<br/>
+
+<a href="https://github.com/joubertjose">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00F3FF&center=true&vCenter=true&width=760&height=40&lines=Building+intelligent+software+systems;Agentic+RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+Next.js;Published+researcher+%E2%80%94+IoT+%2B+ML+for+smart+irrigation;Sharpening+DSA+in+Python%2C+one+problem+at+a+time" alt="Typing animation"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:joubertjose200614@gmail.com"><img src="https://img.shields.io/badge/Email-joubertjose200614%40gmail.com-00f3ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a" alt="Email"/></a>
+<a href="https://github.com/joubertjose"><img src="https://img.shields.io/badge/GitHub-joubertjose-7c5cff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Published-IJRPR_April_2025-00f3ff?style=for-the-badge&logo=googlescholar&logoColor=00f3ff&labelColor=0a0a0a" alt="Published in IJRPR"/>
+<img src="https://img.shields.io/badge/B.Tech_CSE-2024%E2%80%932028-7c5cff?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0a0a0a" alt="B.Tech CSE 2024-2028"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=joubertjose&label=PROFILE+VIEWS&color=00f3ff&style=flat-square&labelColor=0a0a0a" alt="Profile views"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `01` &nbsp;/&nbsp; whoami
+
+```console
+joubert@sjcet:~$ whoami
+joubert jose — computer science student at St. Joseph's College of Engineering
+and Technology, Palai (B.Tech CSE, 2024–2028, currently 4th semester).
+
+joubert@sjcet:~$ cat mission.txt
+building intelligent software systems through full-stack engineering,
+applied AI, and machine learning.
+
+joubert@sjcet:~$ cat now.txt
+→ sharpening DSA fundamentals in Python
+→ exploring LLMs, RAG, and autonomous agents
+→ shipping ML + IoT systems that touch the real world
+
+joubert@sjcet:~$ _
 ```
-$ whoami
-joubert jose — building intelligent software systems through full-stack engineering,
-applied AI, and machine learning. currently sharpening DSA fundamentals in Python
-and exploring LLMs, RAG, and autonomous agents.
+
+```mermaid
+flowchart LR
+    A([Learn<br/>DSA · OS · COA]) --> B([Build<br/>Full-stack · ML · IoT])
+    B --> C([Research<br/>LLMs · RAG · Agents])
+    C --> A
+    style A fill:#0a0a0a,stroke:#00f3ff,color:#00f3ff
+    style B fill:#0a0a0a,stroke:#7c5cff,color:#c9d4ee
+    style C fill:#0a0a0a,stroke:#00f3ff,color:#00f3ff
 ```
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 800 160" role="img" aria-labelledby="schematicTitle" aria-describedby="schematicDesc">
-  <title id="schematicTitle">Technical schematic — signal path diagram</title>
-  <desc id="schematicDesc">Abstract circuit trace diagram with nodes and connection paths representing signal flow between processing units.</desc>
-  <defs>
-    <linearGradient id="gradBlue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00f3ff;stop-opacity:0.15" />
-      <stop offset="100%" style="stop-color:#00f3ff;stop-opacity:0.05" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="800" height="160" fill="#0a0a0a" />
-  <line x1="40" y1="40" x2="200" y2="40" stroke="#00f3ff" stroke-width="1" stroke-dasharray="4,2" opacity="0.4"/>
-  <line x1="200" y1="40" x2="360" y2="100" stroke="#00f3ff" stroke-width="1.5" opacity="0.7"/>
-  <line x1="360" y1="100" x2="520" y2="60" stroke="#00f3ff" stroke-width="1" stroke-dasharray="6,3" opacity="0.4"/>
-  <line x1="520" y1="60" x2="760" y2="140" stroke="#00f3ff" stroke-width="1.5" opacity="0.7"/>
-  <line x1="40" y1="120" x2="240" y2="120" stroke="#cccccc" stroke-width="1" opacity="0.3"/>
-  <line x1="240" y1="120" x2="400" y2="40" stroke="#cccccc" stroke-width="1" opacity="0.3"/>
-  <line x1="400" y1="40" x2="560" y2="140" stroke="#cccccc" stroke-width="1" opacity="0.3"/>
-  <line x1="560" y1="140" x2="720" y2="80" stroke="#cccccc" stroke-width="1" opacity="0.3"/>
-  <circle cx="200" cy="40" r="4" fill="#00f3ff" filter="url(#glow)"/>
-  <circle cx="360" cy="100" r="4" fill="#00f3ff" filter="url(#glow)"/>
-  <circle cx="520" cy="60" r="4" fill="#00f3ff" filter="url(#glow)"/>
-  <circle cx="760" cy="140" r="4" fill="#00f3ff" filter="url(#glow)"/>
-  <circle cx="240" cy="120" r="3" fill="#cccccc" opacity="0.5"/>
-  <circle cx="400" cy="40" r="3" fill="#cccccc" opacity="0.5"/>
-  <circle cx="560" cy="140" r="3" fill="#cccccc" opacity="0.5"/>
-  <circle cx="720" cy="80" r="3" fill="#cccccc" opacity="0.5"/>
-  <rect x="170" y="28" width="60" height="24" fill="none" stroke="#00f3ff" stroke-width="1" opacity="0.6" rx="2"/>
-  <rect x="330" y="88" width="60" height="24" fill="none" stroke="#00f3ff" stroke-width="1" opacity="0.6" rx="2"/>
-  <rect x="490" y="48" width="60" height="24" fill="none" stroke="#00f3ff" stroke-width="1" opacity="0.6" rx="2"/>
-  <rect x="730" y="128" width="60" height="24" fill="none" stroke="#00f3ff" stroke-width="1" opacity="0.6" rx="2"/>
-  <text x="185" y="46" font-family="monospace" font-size="10" fill="#00f3ff" opacity="0.8">NODE_A</text>
-  <text x="345" y="106" font-family="monospace" font-size="10" fill="#00f3ff" opacity="0.8">NODE_B</text>
-  <text x="505" y="66" font-family="monospace" font-size="10" fill="#00f3ff" opacity="0.8">NODE_C</text>
-  <text x="745" y="146" font-family="monospace" font-size="10" fill="#00f3ff" opacity="0.8">NODE_D</text>
-</svg>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
----
-
-## 01 — CURRENT OPERATIONS
+## `02` &nbsp;/&nbsp; current operations
 
 <table>
   <tr>
-    <td width="33%"><b>LEARNING</b><br/>Data Structures &amp; Algorithms (Python)<br/>Operating Systems<br/>Computer Organization &amp; Architecture</td>
-    <td width="33%"><b>BUILDING</b><br/>Full-stack applications<br/>ML/IoT systems<br/>Backend projects</td>
-    <td width="33%"><b>RESEARCHING</b><br/>LLMs · RAG<br/>Multimodal AI<br/>Autonomous agents</td>
-  </tr>
-</table>
-
----
-
-## 02 — SELECTED WORK
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>joubert-ai-tutor</b><br/>
-      Agentic RAG tutoring system — LangGraph, FastAPI, Next.js. Context-aware learning with document intelligence and streaming responses.<br/>
-      <i>Python · TypeScript · LangGraph · FastAPI · Next.js</i><br/>
-      <a href="https://github.com/joubertjose/joubert-ai-tutor">View repository →</a>
+    <td width="33%" valign="top">
+      <h3>📚 Learning</h3>
+      <ul>
+        <li>Data Structures &amp; Algorithms <sub>(Python)</sub></li>
+        <li>Operating Systems</li>
+        <li>Computer Organization &amp; Architecture</li>
+      </ul>
     </td>
-    <td width="50%">
-      <b>joubert-tasknebula</b><br/>
-      Project management platform with AI copilot — task orchestration, analytics, PostgreSQL backend.<br/>
-      <i>TypeScript · Node.js · PostgreSQL · AI integration</i><br/>
-      <a href="https://github.com/joubertjose/joubert-tasknebula">View repository →</a>
+    <td width="33%" valign="top">
+      <h3>🛠️ Building</h3>
+      <ul>
+        <li>Full-stack applications</li>
+        <li>ML / IoT systems</li>
+        <li>Backend projects</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>joubert-rag</b><br/>
-      Hybrid RAG document intelligence — structure-aware parsing, reciprocal rank fusion, neural reranking, BYOK Gemini execution.<br/>
-      <i>TypeScript · FastAPI · LangGraph · Pinecone · Gemini</i><br/>
-      <a href="https://github.com/joubertjose/joubert-rag">View repository →</a>
-    </td>
-    <td width="50%">
-      <b>JoubertMart</b><br/>
-      Responsive e-commerce front-end — product catalog, cart, checkout, registration. Built with HTML, CSS, JavaScript.<br/>
-      <i>HTML · CSS · JavaScript · Bootstrap</i><br/>
-      <a href="https://github.com/joubertjose/JoubertMart">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>joubert-automl-studio</b><br/>
-      No-code ML platform — preprocessing, model training, evaluation, and deployment pipeline.<br/>
-      <i>JavaScript · FastAPI · React · scikit-learn</i><br/>
-      <a href="https://github.com/joubertjose/joubert-automl-studio">View repository →</a>
-    </td>
-    <td width="50%">
-      <b>joubert-predictive-maintenance</b><br/>
-      Industrial failure prediction — XGBoost-based analytics for equipment maintenance scheduling.<br/>
-      <i>Python · XGBoost · Jupyter · ML analytics</i><br/>
-      <a href="https://github.com/joubertjose/joubert-predictive-maintenance">View repository →</a>
+    <td width="33%" valign="top">
+      <h3>🔬 Researching</h3>
+      <ul>
+        <li>LLMs &amp; RAG</li>
+        <li>Multimodal AI</li>
+        <li>Autonomous agents</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 03 — TECHNICAL INTERESTS
+## `03` &nbsp;/&nbsp; selected work
 
 <table>
   <tr>
-    <td width="50%"><b>Programming</b><br/>Python · C · Java · TypeScript · JavaScript · Tcl</td>
-    <td width="50%"><b>AI / Machine Learning</b><br/>scikit-learn · XGBoost · LangGraph · RAG · LLMs · FastAPI</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/joubertjose/joubert-ai-tutor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-ai-tutor&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff&hide_border=false" alt="joubert-ai-tutor"/>
+      </a>
+      <br/>
+      <sub>🧠 <b>Agentic RAG tutoring system</b> — context-aware learning with document intelligence and streaming responses.</sub><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/joubertjose/joubert-tasknebula">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-tasknebula&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-tasknebula"/>
+      </a>
+      <br/>
+      <sub>🌌 <b>Project management platform with AI copilot</b> — task orchestration, analytics, PostgreSQL backend.</sub><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI_Copilot-7c5cff?style=flat-square"/>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><b>Web Development</b><br/>HTML · CSS · React · Next.js · Bootstrap</td>
-    <td width="50%"><b>Systems &amp; Tools</b><br/>Git · GitHub · IoT · Operating Systems · Linux</td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/joubertjose/joubert-rag">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-rag&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-rag"/>
+      </a>
+      <br/>
+      <sub>📄 <b>Hybrid RAG document intelligence</b> — structure-aware parsing, reciprocal rank fusion, neural reranking, BYOK Gemini execution.</sub><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/joubertjose/joubert-automl-studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-automl-studio&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-automl-studio"/>
+      </a>
+      <br/>
+      <sub>⚙️ <b>No-code ML platform</b> — preprocessing, model training, evaluation, and deployment pipeline.</sub><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/joubertjose/joubert-predictive-maintenance">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=joubert-predictive-maintenance&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="joubert-predictive-maintenance"/>
+      </a>
+      <br/>
+      <sub>🏭 <b>Industrial failure prediction</b> — XGBoost-based analytics for equipment maintenance scheduling.</sub><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/joubertjose/JoubertMart">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joubertjose&repo=JoubertMart&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff" alt="JoubertMart"/>
+      </a>
+      <br/>
+      <sub>🛒 <b>Responsive e-commerce front-end</b> — product catalog, cart, checkout, registration.</sub><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 04 — RESEARCH
+## `04` &nbsp;/&nbsp; tech arsenal
 
-<blockquote>
-<b>Solar-Powered IoT &amp; ML-Based Smart Irrigation System</b><br/>
-Peer-reviewed research published in <b>IJRPR, April 2025</b>.<br/>
-Combines IoT sensor data with a machine learning model to optimize irrigation decisions, powered by a solar supply chain.
-</blockquote>
+<div align="center">
 
-- [Read the paper — IJRPR, April 2025]
-- [View project repository — link pending]
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=py,c,java,ts,js&perspective=center" alt="Languages"/> <sub>+ Tcl</sub>
 
-## 05 — ACTIVITY
+**Web**
 
-```
-contributions:
-  ●●●●○○○○○○  jan  12
-  ●●●●●●○○○○  feb  18
-  ●●●○○○○○○○  mar  6
-  ●●●●●●●○○○  apr  14
-  ●●●●●●●●○○  may  21
-  ●●●●○○○○○○  jun  10
-```
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,bootstrap,tailwind&perspective=center" alt="Web"/>
 
-<small>Activity levels are illustrative. View full contribution history on GitHub.</small>
+**AI / ML & Backend**
 
----
+<img src="https://skillicons.dev/icons?i=fastapi,postgres&perspective=center" alt="Backend"/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7c5cff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-00f3ff?style=for-the-badge&labelColor=0a0a0a&color=00f3ff"/>
 
-## 06 — CONTACT
+**Systems & Tools**
 
-<b>joubertjose200614@gmail.com</b><br/>
-Happy to discuss IoT/ML systems, hackathons, or systems programming.
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perspective=center" alt="Tools"/> <sub>+ IoT · Operating Systems</sub>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40" viewBox="0 0 800 40">
-  <rect width="800" height="40" fill="#0a0a0a" />
-  <line x1="40" y1="20" x2="760" y2="20" stroke="#cccccc" stroke-width="1" opacity="0.2"/>
-  <line x1="40" y1="20" x2="200" y2="20" stroke="#00f3ff" stroke-width="1.5" opacity="0.8"/>
-  <circle cx="40" cy="20" r="2" fill="#00f3ff"/>
-  <circle cx="760" cy="20" r="2" fill="#cccccc" opacity="0.3"/>
-  <text x="40" y="28" font-family="monospace" font-size="9" fill="#888888">github.com/joubertjose</text>
-  <text x="600" y="28" font-family="monospace" font-size="9" fill="#888888">joubertjose200614@gmail.com</text>
-</svg>
+</div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `05` &nbsp;/&nbsp; research
+
+> ### 🌱 Solar-Powered IoT & ML-Based Smart Irrigation System
+> **Peer-reviewed · IJRPR · April 2025**
+>
+> Combines IoT sensor data with a machine learning model to optimize irrigation decisions, powered by a solar supply chain — sustainable agriculture meets applied ML.
+
+<div align="center">
+
+<!-- 👉 Replace the two "#" links below once you have the real URLs -->
+<a href="#"><img src="https://img.shields.io/badge/📄_Read_the_paper-IJRPR_April_2025-00f3ff?style=for-the-badge&labelColor=0a0a0a" alt="Read the paper"/></a>
+<a href="#"><img src="https://img.shields.io/badge/💻_Project_repo-link_pending-7c5cff?style=for-the-badge&labelColor=0a0a0a" alt="Project repo"/></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `06` &nbsp;/&nbsp; github telemetry
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joubertjose&show_icons=true&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&icon_color=7c5cff&text_color=c9d4ee&hide_border=false&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joubertjose&layout=compact&theme=tokyonight&bg_color=0a0a0a&border_color=00f3ff&title_color=00f3ff&text_color=c9d4ee" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=joubertjose&theme=tokyonight&background=0A0A0A&ring=00F3FF&fire=7C5CFF&currStreakLabel=00F3FF&border=00F3FF&hide_border=false" alt="Streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joubertjose&bg_color=0a0a0a&color=00f3ff&line=7c5cff&point=ffffff&area=true&area_color=00f3ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+
+</div>
+
+<sub>📡 All stats are live — pulled straight from GitHub, no placeholders.</sub>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `07` &nbsp;/&nbsp; roadmap
+
+- [x] Ship an agentic RAG tutor with streaming responses
+- [x] Publish peer-reviewed IoT + ML research (IJRPR, April 2025)
+- [x] Build a hybrid RAG pipeline with reranking
+- [ ] Master DSA fundamentals in Python
+- [ ] Go deep on Operating Systems & Computer Architecture
+- [ ] Build and deploy a multi-agent autonomous system
+- [ ] Win a hackathon 🏆
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## `08` &nbsp;/&nbsp; contact
+
+<div align="center">
+
+**Happy to talk IoT / ML systems, hackathons, or systems programming.**
+
+<a href="mailto:joubertjose200614@gmail.com"><img src="https://img.shields.io/badge/Say_hello-joubertjose200614%40gmail.com-00f3ff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a" alt="Email me"/></a>
+<a href="https://github.com/joubertjose"><img src="https://img.shields.io/badge/Follow-@joubertjose-7c5cff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Follow on GitHub"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,100:7c5cff&height=120&section=footer&text=thanks%20for%20stopping%20by&fontSize=18&fontColor=0a0a0a&animation=twinkling&fontAlignY=68" width="100%" alt="Footer"/>
+
+</div>
