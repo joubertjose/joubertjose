@@ -58,12 +58,6 @@ Git · GitHub · IoT · Operating Systems concepts · Linux
 - [joubert-predictive-maintenance](https://github.com/joubertjose/joubert-predictive-maintenance) — Industrial failure prediction using XGBoost
 - [JoubertMart](https://github.com/joubertjose/JoubertMart) — Responsive e-commerce front-end built with HTML, CSS, and JavaScript
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joubertjose&show_icons=true&theme=dark)
-
----
-
 ## Contact
 
 Reach me at [joubertjose200614@gmail.com](mailto:joubertjose200614@gmail.com) — happy to discuss IoT/ML projects, hackathons, or systems programming.
