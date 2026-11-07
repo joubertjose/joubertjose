@@ -1,48 +1,69 @@
-<h1 align="center">Hi, I'm Joubert Jose 👋</h1>
-<p align="center">B.Tech CSE student · builder of small useful things · IJRPR-published researcher</p>
+# Joubert Jose
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/joubert-jose-69a897327"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:joubertjose200614@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-E8A33D?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://letterboxd.com/YOUR-LETTERBOXD"><img src="https://img.shields.io/badge/Letterboxd-reviews-00D474?style=flat&logo=letterboxd&logoColor=white"></a>
-</p>
+Computer Science student interested in building intelligent software systems through full-stack engineering, applied AI, and machine learning.
+
+B.Tech Computer Science & Engineering (2024–2028)  
+St. Joseph's College of Engineering and Technology, Palai — 4th semester  
+Published researcher — IJRPR, April 2025
+
+[joubertjose200614@gmail.com](mailto:joubertjose200614@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joubert-jose-69a897327)
 
 ---
 
-### About me
+## Current focus
 
-- 🎓 B.Tech Computer Science & Engineering (2024–2028), St. Joseph's College of Engineering and Technology, Palai — currently in 4th semester
-- 🔬 Published researcher — co-author of a peer-reviewed paper on a **solar-powered IoT + ML smart irrigation system** (IJRPR, April 2025)
-- 🧠 Currently sharpening Data Structures & Algorithms fundamentals in Python
-- 🏆 Hackathon participant — enjoy building under pressure
-- 🎬 Off-screen: film reviews on Letterboxd, football, church youth ministry, and photo/video editing
+**Learning**  
+Data Structures & Algorithms (Python), Operating Systems, Computer Organization & Architecture
 
-### What I'm exploring right now
+**Building**  
+Full-stack applications, ML/IoT systems, backend projects
 
-```text
-learning:   DSA (Python) · Operating Systems · Computer Organization & Architecture
-building:   small ML/IoT side projects
-curious about: LLMs, multimodal AI, RAG, agents
-```
+**Exploring**  
+LLMs, RAG, multimodal AI, autonomous agents
 
-### Featured project
+---
 
-**🌱 Solar-Powered IoT & ML-Based Smart Irrigation System**
-Peer-reviewed paper published in IJRPR (April 2025). Combines IoT sensor data with a machine learning model to optimize irrigation decisions, powered by a solar supply chain.
-[Read the paper →](YOUR_PAPER_LINK) · [Project repo →](YOUR_REPO_LINK)
+## Featured project
 
-### Skills
+**Solar-Powered IoT & ML-Based Smart Irrigation System**  
+Peer-reviewed research published in IJRPR (April 2025). Combines IoT sensor data with a machine learning model to optimize irrigation decisions, powered by a solar supply chain.
 
-`Python` `Data Structures & Algorithms` `Machine Learning basics` `IoT` `C` `Operating Systems concepts` `Git/GitHub`
+- Read the paper: IJRPR, April 2025
+- View the project: repository link pending
 
-### GitHub stats
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joubertjose&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joubertjose" height="165">
-</p>
+## Skills
 
-### Let's connect
+**Programming languages**  
+Python · C · Java · TypeScript · JavaScript · Tcl
 
-📫 Reach me at **joubertjose200614@gmail.com** — always happy to talk about IoT/ML projects, hackathons, or a good film.
+**AI / Machine Learning**  
+scikit-learn · XGBoost · LangGraph · RAG · LLMs · FastAPI
 
+**Web development**  
+HTML · CSS · React · Next.js · Bootstrap
+
+**Systems and tools**  
+Git · GitHub · IoT · Operating Systems concepts · Linux
+
+---
+
+## Featured repositories
+
+- [joubert-ai-tutor](https://github.com/joubertjose/joubert-ai-tutor) — Agentic RAG tutoring system with LangGraph, FastAPI, and Next.js
+- [joubert-tasknebula](https://github.com/joubertjose/joubert-tasknebula) — Project management platform with AI copilot (TypeScript)
+- [joubert-rag](https://github.com/joubertjose/joubert-rag) — Hybrid RAG document intelligence platform with reranking and citations
+- [joubert-automl-studio](https://github.com/joubertjose/joubert-automl-studio) — No-code ML training, preprocessing, and evaluation platform
+- [joubert-predictive-maintenance](https://github.com/joubertjose/joubert-predictive-maintenance) — Industrial failure prediction using XGBoost
+- [JoubertMart](https://github.com/joubertjose/JoubertMart) — Responsive e-commerce front-end built with HTML, CSS, and JavaScript
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joubertjose&show_icons=true&theme=dark)
+
+---
+
+## Contact
+
+Reach me at [joubertjose200614@gmail.com](mailto:joubertjose200614@gmail.com) — happy to discuss IoT/ML projects, hackathons, or systems programming.
